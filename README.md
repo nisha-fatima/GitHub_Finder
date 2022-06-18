@@ -1,1 +1,3 @@
-A React app for looking up github profiles and stats. Built with React, context api and reducers, tailwind css and daisy UI which is an open source component library for tailwind css.
+# GITHUB FINDER
+
+## [Live Site](https://github-finder-sooty-alpha.vercel.app/)
